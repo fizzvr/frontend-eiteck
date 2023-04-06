@@ -1,0 +1,35 @@
+{
+  "name": "frontend-eiteck",
+  "author": {
+    "name": "Vladimir Rodríguez",
+    "email": "fizzvr@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "dependencies": {
+    "@emotion/react": "latest",
+    "@emotion/styled": "latest",
+    "@mui/material": "latest",
+    "react": "latest",
+    "react-dom": "latest",
+    "redux": "latest",
+    "react-redux": "latest",
+    "redux-thunk": "latest",
+    "axios": "latest",
+    "react-router-dom": "latest",
+    "react-router": "latest"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "latest",
+    "vite": "latest"
+  }
+}
